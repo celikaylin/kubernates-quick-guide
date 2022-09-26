@@ -1,5 +1,5 @@
 
-# Kubernates Quick Guide
+# Kubernetes Quick Guide
 
 This document includes quick information like some useful commands and tips.
 
@@ -9,7 +9,7 @@ This document includes quick information like some useful commands and tips.
 
 ## Before Starting
 
- - [Kubernates Offical Doc](https://kubernetes.io/docs/home/)
+ - [Kubernetes Offical Doc](https://kubernetes.io/docs/home/)
  - [Docker Quick Guide](https://github.com/celikaylin/docker-quick-guide)
  - [Most Useful Udemy Course](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
