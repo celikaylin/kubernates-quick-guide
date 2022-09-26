@@ -1,4 +1,4 @@
-# Kubernates
+# Kubernetes
 
 It helps us with container orchestration.
 
@@ -17,11 +17,11 @@ It helps us with;
 
 ## Concept and Architecture
 
-Here is the Kubernates Architecture
+Here is the Kubernetes Architecture
 
-![Kubernates Architecture](https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg)
+![Kubernetes Architecture](https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg)
 
-⚡️ `Pod` is reponsible for running container/containers. It hosts one or more containers and their resources. It is created and managed by `Kubernates`
+⚡️ `Pod` is reponsible for running container/containers. It hosts one or more containers and their resources. It is created and managed by `Kubernetes`
 
 ⚡️`Worder Node` is the thing you can think as your machine/virtual machine. It is managed by `Master Node`. It can has more than one pod on it and also some softwares/services. 
 
