@@ -24,6 +24,6 @@ This document includes quick information like some useful commands and tips.
     - [Example of Deployment](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/dive-into-kubernetes.md#example-of-deployment)
         - [Imperative Configuration](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/dive-into-kubernetes.md#imperative-configuration)
         - [Declarative Configuration](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/dive-into-kubernetes.md#declarative-configuration)
-
+- [Volumes](https://github.com/celikaylin/kubernates-quick-guide/blob/main/volumes.md)
 
  
