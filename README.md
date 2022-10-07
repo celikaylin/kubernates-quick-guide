@@ -26,6 +26,6 @@ This document includes quick information like some useful commands and tips.
         - [Declarative Configuration](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/dive-into-kubernetes.md#declarative-configuration)
 - [Volumes](https://github.com/celikaylin/kubernates-quick-guide/blob/main/volumes.md)
 - [Networking](https://github.com/celikaylin/kubernates-quick-guide/blob/main/networking.md)
-    - [Pod Internal Communication](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/networking.md#pod-internal-communication)
-     - [Pod-to-Pod Communication](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/networking.md#pod-to-pod-communication)
+    - [Pod Internal Connection](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/networking.md#pod-internal-connection)
+     - [Pod-to-Pod Connection](https://github.com/celikaylin/kubernetes-quick-guide/blob/main/networking.md#pod-to-pod-connection)
  

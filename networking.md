@@ -1,9 +1,9 @@
 # Nertworking
 
 
-## Pod Internal Communication
+## Pod Internal Connection
 
-For pod internal communication when containers are in the same pod, kubernetes allows to comminicate with each other via localhost.
+For pod internal connection when containers are in the same pod, kubernetes allows to comminicate with each other via localhost.
 
 I have two applications which will be in different containers but the same pod. For all containers I just need one deploymant and service .yaml files. 
 
